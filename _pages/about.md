@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am Soham Chitnis, a final year student at Birla Institute of Technology and Science Pilani, K.K. Birla Goa Campus, pursuing an undergrad in Computer Science with a minor in Data Science. My research interests are **Computer Vision, Deep Learning, Machine Learning, and Artificial Intelligence**. In my undergraduate thesis at TCS Research, I explored grounding large language models for Chart Understanding. I also investigated the impact of language-image pre-training of the visual encoder on the Chart Visual Question Answering (Chart VQA) task. I have worked on developing a deep learning-based model for cancer diagnosis using histopathology images and the generation of novel drug molecules for cancer cure using Deep Graph Generators. I have worked on  Hyperspectral Images for various downstream tasks. I am a member of [Society for Artificial Intelligence and Deep Learning](https://www.saidl.in/). I am looking to collaborate on research projects and Research Assistant/ Project Assistant positions.
