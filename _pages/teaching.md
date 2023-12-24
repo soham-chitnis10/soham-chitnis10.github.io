@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Assistant: Computer Program (CS F111)
 
-Organize your courses by years, topics, or universities, however you like!
+I took doubt-solving sessions, evaluated labs and assissted Prof. Anup B Mathew and Prof. Arnab Paul
+
+### Instructor: Introduction to Deep Learning, Quark Controls, BITS Pilani
+
+Taught Introduction to Deep Learning to first-year students (Online) and mentored them for the final-project of the course.
+
+### Academic Assistance Program Mentor: Mathematics-I (Multivariate Calculus)
+
+Conducted doubt-solving sessions and mentored first-year students for the Mathematics-1 (MATH F111).
