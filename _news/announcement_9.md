@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining [CSIR-CEERI Pilani](https://www.ceeri.res.in/) as Research Intern.
+Joined [CSIR-CEERI Pilani](https://www.ceeri.res.in/) as Research Intern.

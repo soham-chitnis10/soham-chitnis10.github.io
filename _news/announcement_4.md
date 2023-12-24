@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at [EMBC 2023](https://embc.embs.org/2023/): [[Preprint]](https://arxiv.org/abs/2302.09833)
+Paper accepted at [EMBC 2023](https://embc.embs.org/2023/): [Preprint](https://arxiv.org/abs/2302.09833)

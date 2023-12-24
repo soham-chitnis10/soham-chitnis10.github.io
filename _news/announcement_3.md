@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper at [EMBC 2023](https://embc.embs.org/2023/) accepted as an Oral-Presentation.
+[Paper](https://arxiv.org/abs/2302.09833) accepted as an Oral-Presentation at [EMBC 2023](https://embc.embs.org/2023/).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining TCS Research as a Research Intern
+Joined TCS Research as a Research Intern

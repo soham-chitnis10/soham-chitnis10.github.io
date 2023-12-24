@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining the [Kwon Lab for Low Vision and Brain Research, Northeastern University](https://kwonlab.sites.northeastern.edu/) as a Research Assistant.
+Joined the [Kwon Lab for Low Vision and Brain Research, Northeastern University](https://kwonlab.sites.northeastern.edu/) as a Research Assistant.

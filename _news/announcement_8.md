@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Instructor for the course Introduction to Deep Learning by Quark Controls, BITS Pilani Goa.
+Started as Instructor for the course Introduction to Deep Learning by Quark Controls, BITS Pilani Goa.

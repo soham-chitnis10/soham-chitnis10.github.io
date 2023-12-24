@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining [Visual Computing Lab](http://vclab.science.uoit.ca/), Ontario Tech University, Canada as a Visiting Scholar.
+Joined [Visual Computing Lab](http://vclab.science.uoit.ca/), Ontario Tech University, Canada as a Visiting Scholar.
