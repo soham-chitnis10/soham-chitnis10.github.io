@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining [APP Centre for AI Research, BITS Pilani](https://www.bits-pilani.ac.in/appcair/) as Undergraduate Research Collaborator.
+Joined [APP Centre for AI Research, BITS Pilani](https://www.bits-pilani.ac.in/appcair/) as Undergraduate Research Collaborator.
