@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Teaching Assistant: Computer Program (CS F111)
 
-I took doubt-solving sessions, evaluated labs and assissted Prof. Anup B Mathew and Prof. Arnab Paul
+Took doubt-solving sessions, evaluated labs and assissted Prof. Anup B Mathew and Prof. Arnab Paul
 
 ### Instructor: Introduction to Deep Learning, Quark Controls, BITS Pilani
 
