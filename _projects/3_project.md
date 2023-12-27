@@ -2,7 +2,7 @@
 layout: page
 title: Project Kratos
 description:
-img: assets/img/kratos.jpg
+img: assets/img/kratos.png
 redirect: https://kratos-the-rover.github.io/
 importance: 3
 category: work
