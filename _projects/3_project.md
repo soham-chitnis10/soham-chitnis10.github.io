@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Project Kratos
+description:
+img: assets/img/kratos.jpg
+redirect: https://kratos-the-rover.github.io/
 importance: 3
 category: work
 ---
