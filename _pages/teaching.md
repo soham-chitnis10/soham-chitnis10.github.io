@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-* Teaching Assistant: Computer Program (CS F111)
+* Teaching Assistant: Computer Networks (CS F303)
+
+* Teaching Assistant: Computer Programming (CS F111)
 
 <!-- Took doubt-solving sessions, evaluated labs and assissted Prof. Anup B Mathew and Prof. Arnab Paul -->
 
