@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper: `SpACNN-LDVAE: Spatial Attention Convolutional Latent Dirichlet Variational Autoencoder for Hyperspectral Pixel Unmixing` accepted  as Oral Presentation at [IGARSS 2024](https://www.2024.ieeeigarss.org/) [Preprint](https://arxiv.org/abs/2311.10701)
+[SpACNN-LDVAE: Spatial Attention Convolutional Latent Dirichlet Variational Autoencoder for Hyperspectral Pixel Unmixing](https://arxiv.org/abs/2311.10701) accepted  as Oral Presentation at [IGARSS 2024](https://www.2024.ieeeigarss.org/)
