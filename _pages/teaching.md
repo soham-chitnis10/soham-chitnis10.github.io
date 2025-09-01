@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
+* Teaching Assistant (Grader): Deep Learning (CSCI-GA 2572 & DS-GA 1008)
 * Teaching Assistant: Computer Networks (CS F303)
 
 * Teaching Assistant: Computer Programming (CS F111)
