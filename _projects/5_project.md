@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Glioma Subtyping from Whole Slide Images using Deep Learning
+description: another without an image
+img:
 importance: 3
+github: https://github.com/CSCI-GA-2820-FA25-003/customers
 ---
 
 Every project has a beautiful feature showcase page.

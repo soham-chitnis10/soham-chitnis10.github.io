@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
+title: DevOps and Agile Methodologies Project
 description: another without an image
 img:
 importance: 3
+github: https://github.com/CSCI-GA-2820-FA25-003/customers
 ---
 
 Every project has a beautiful feature showcase page.
