@@ -29,6 +29,5 @@ horizontal: false
       {% include projects.html %}
     {% endfor %}
   </div>
-  {% endif %}
 {% endif %}
 </div>
