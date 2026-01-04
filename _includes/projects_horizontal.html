@@ -1,9 +1,9 @@
 <div class="card-item col">
-  {%- if project.redirect -%}
-  <a href="{{ project.redirect }}">
-  {%- else -%}
+<!-- {%- if project.redirect -%}
+ <a href="{{ project.redirect }}"> </a>
+   {%- else -%}
   <a href="{{ project.url | relative_url }}">
-  {%- endif -%}
+{%- endif -%} -->
     <div class="card hoverable">
       <div class="row g-0">
         {%- if project.img -%}
@@ -15,8 +15,17 @@
         <div class="col-md-12">
         {%- endif -%}
           <div class="card-body">
-            <h5 class="card-title ">{{ project.title }}</h5>
-            <p class="card-text">{{ project.description }}</p>
+            <h6 class="card-title ">{{ project.title }}</h6>
+            {%- if project.advisor -%}
+            <p><em class="card-advisor">Advisor:
+              {%- if project.advisor_link -%}
+                <a href="{{project.advisor_link}}"> {{ project.advisor }} </a>
+              {%- else -%} 
+                {{ project.advisor }}
+              {%- endif -%} 
+            </em></p>
+            {%- endif -%}
+            <p class="card-text" style="font-size: 15px;">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
               {%- if project.github -%}
               <div class="github-icon">
@@ -31,10 +40,16 @@
                 {%- endif -%}
               </div>
               {%- endif -%}
+              {%- if project.demo -%}
+              <div class="youtube-icon">
+                <div class="icon" data-toggle="tooltip" title="Demo">
+                  <a href="{{ project.demo }}"><i class="fa-brands fa-youtube"></i></a>
+                </div>
+              </div>
+              {%- endif -%}
             </div>
           </div>
         </div>
       </div>
     </div>
-  </a>
 </div>

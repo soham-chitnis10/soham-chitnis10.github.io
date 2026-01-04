@@ -5,9 +5,9 @@ permalink: /
 subtitle:
 
 profile:
-  align: left
+  align: right
   image: new_profile.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info:
 
 news: true  # includes a list of news items
@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Masters student at Courant Institute of Mathematical Sciences, New York University (NYU) studying Computer Science. I graduated from Birla Institute of Technology & Science Pilani (BITS Pilani) in Computer Science with a Minor in Data Science. 
 
-My research interests are **Computer Vision, Deep Learning, Natural Language Processing, Machine Learning**. These days, I am interested in multimodal models and world models both predictive and generative. In addition, I am interested in Agentic AI systems. I also like to work on Applied AI in domains such as Healthcare, Remote Sensing. 
+My research focuses on **Representation Learning, World Models, Multimodal Models**.  I also like to work on Applied AI in domains such as Healthcare, Remote Sensing essentially bringing the state-of-the-art methods to these domains. 
 
-At the [CILVR Lab, NYU](https://wp.nyu.edu/cilvr/) with Prof. Yann LeCun's PhD student, [Wancong (Kevin) Zhang](https://kevinghst.github.io/), I am working on training  latent space World Models (JEPA & Hierarchical JEPA) with self-supervised learning  and planning with Model Predictive Control. Beyond, this I am also exploring generative world models especially Diffusion Transformer based models.
+At the [CILVR Lab](https://wp.nyu.edu/cilvr/) with Prof. Yann LeCun's group, [Wancong (Kevin) Zhang](https://kevinghst.github.io/), I am training  latent space World Models (JEPA & Hierarchical JEPA) with self-supervised learning methods like VICReg  and optimal control planning with MPC. Beyond, this I am also exploring generative world models especially Diffusion based models.
 
 At APPCAIR, I have worked on developing  an LLM-based multi-agents for review generation of research papers.  In my undergraduate thesis at TCS Research, I explored grounding large language models for Chart Understanding. I also investigated the impact of language-image pre-training of the visual encoder on the Chart Visual Question Answering (Chart VQA) task. I have worked on developing a deep learning-based model for cancer diagnosis using histopathology images and the generation of novel drug molecules for cancer cure using Deep Graph Generators. I have worked on  Hyperspectral Images for various downstream tasks.
 

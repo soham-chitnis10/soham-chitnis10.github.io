@@ -1,10 +1,12 @@
 ---
 layout: page
-title: AI Trip Planner
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-giscus_comments: true
+title: DevOps and Agile Methodologies Project
+advisor: Prof. John Rofrano
+advisor_link: https://www.johnrofrano.com/about/
+description: "Developed an Admin service to handle Customers of an e-commerce website, following Agile Principles throughout the 5 sprints using Test Driven Development and Behaviour Driven Development. Deployed using Kubernetes, Docker, and Red Hat OpenShift"
+img:
+importance: 3
+github: https://github.com/CSCI-GA-2820-FA25-003/customers
 ---
 
 Every project has a beautiful feature showcase page.

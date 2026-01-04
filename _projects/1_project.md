@@ -1,18 +1,9 @@
 ---
 layout: page
-title: Machine Translation of Code-Mixed Sentences with Small Language Models
-description: 
+title: Multi-Task Fine-Tuning for Code-Mixed Machine Translation
+description: "Proposed Multi-Task Fine-Tuning involving first Token-level Language Identification, followed by Machine Translation. Trained Llama 3.2 1B model using QLoRA. Improved BLEU scores of Romanized Hindi by 5.32% compared to simple Supervised Fine-Tuning (Most imbalanced class 0.70% of all tokens)."
 img: assets/img/system_prompt.png
-importance: 1
+importance: 2
 giscus_comments: false
 ---
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/multi-task-fine-tuning.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Multi-Task Fine-tuning for Machine Translation of Code-Mixed Sentences.
-</div>

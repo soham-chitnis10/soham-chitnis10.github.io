@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Navigation World Models
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-giscus_comments: true
+title: Action-aware REPA for Diffusion based World Models
+advisor: Prof. Saining Xie
+advisor_link: https://www.sainingxie.com/
+description: "Developed Action-aware Representation Alignment (AC-REPA) for action-conditioned diffusion world models by aligining internal representations with Video Foundation Models (VideoMAEv2) to improve rollout dynamics, temporal coherence, reduce artifacts, and enhance planning success in navigation environments."
+img: assets/img/ac-repa.gif
+github: https://github.com/harsh-sutariya/nwm
+importance: 1
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
