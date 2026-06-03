@@ -24,6 +24,4 @@ At the [CILVR Lab](https://wp.nyu.edu/cilvr/) with Prof. Yann LeCun's group, [Wa
 
 At APPCAIR, I have worked on developing  an LLM-based multi-agents for review generation of research papers.  In my undergraduate thesis at TCS Research, I explored grounding large language models for Chart Understanding. I also investigated the impact of language-image pre-training of the visual encoder on the Chart Visual Question Answering (Chart VQA) task. I have worked on developing a deep learning-based model for cancer diagnosis using histopathology images and the generation of novel drug molecules for cancer cure using Deep Graph Generators. I have worked on  Hyperspectral Images for various downstream tasks.
 
- **I am on job market and looking for Spring Internships in 2026 and Full-time roles starting summer 2026.**
-
 I am fortunate to have been guided by [Prof. Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/), [Prof. Tanmay Verlekar](https://www.bits-pilani.ac.in/goa/tanmay-tulsidas-verlekar/), [Dr. Tirtharaj Dash](https://tirtharajdash.github.io/) at APPCAIR, [Dr. Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu) at Macquaire University, [Dr. Manasi Patwardhan](https://scholar.google.co.in/citations?user=eAM84HQAAAAJ&hl=en) at TCS Research and [Prof. Faisal Qureshi](https://vclab.ca/) at Ontario Tech University.
